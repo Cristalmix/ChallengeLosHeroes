@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="727mm" xmlns="http://www.w3.org/2000/svg" height="314mm" version="1.1" viewBox="0 0 2750 1187" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="1310,432 1310,354" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1310,354 1313,367 1307,367" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1310" y="396" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_comuna_region</text>
+   <path d="M1783,300 L1915,300 A8,8 0 0,1 1923,308 L1923,763" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1923,763 1920,749 1926,749" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1923" y="295" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_documentoXlicencia_licencia</text>
+   <polyline fill="none" points="1629,233 1629,98" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1629,98 1632,111 1626,111" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1629" y="168" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_documentoXlicencia_documentoLicencia</text>
+   <polyline fill="none" points="1715,367 1715,452" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1715,452 1712,439 1718,439" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1715" y="412" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_documentoXlicencia_sucursal</text>
+   <polyline fill="none" points="1310,594 1310,541" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1310,541 1313,554 1307,554" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1309" y="570" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_empleador_comuna</text>
+   <path d="M2297,683 L2297,863 A8,8 0 0,1 2289,871 L2099,871" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2099,871 2112,868 2112,874" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2297" y="873" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_estadoXlicencia_licencia</text>
+   <path d="M2441,622 L2611,622 A8,8 0 0,0 2619,614 L2619,493" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2619,493 2622,506 2616,506" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2619" y="632" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_estadoXlicencia_estadoLicencia</text>
+   <polyline fill="none" points="2099,887 2489,887" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2489,887 2475,890 2475,884" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2294" y="882" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_medico</text>
+   <polyline fill="none" points="2048,763 2048,224" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2048,224 2051,237 2045,237" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2048" y="496" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_trabajador</text>
+   <path d="M1800,807 L998,807 A8,8 0 0,1 990,799 L990,775" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="990,775 993,788 987,788" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="990" y="817" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_tipoReposo</text>
+   <polyline fill="none" points="1950,1010 1950,1052" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1950,1052 1947,1039 1953,1039" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1950" y="1034" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_tipoPresentacionLicencia</text>
+   <path d="M1800,833 L678,833 A8,8 0 0,1 670,825 L670,801" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="670,801 673,815 667,815" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="670" y="843" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_actividadTrabajador</text>
+   <polyline fill="none" points="1800,937 248,937" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="248,937 262,934 262,940" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1024" y="933" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_tipoLicencia</text>
+   <path d="M1800,860 L331,860 A8,8 0 0,1 323,852 L323,801" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="323,801 326,815 320,815" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="323" y="870" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_ocupacionTrabajador</text>
+   <path d="M1800,780 L1318,780 A8,8 0 0,1 1310,772 L1310,753" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1310,753 1313,766 1307,766" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1310" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_licencia_empleador</text>
+   <polyline fill="none" points="2613,991 2613,1089" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2613,1089 2610,1076 2616,1076" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2613" y="1043" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_medico_especialidad</text>
+   <polyline fill="none" points="1588,487 1422,487" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1422,487 1436,484 1436,490" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="1504" y="482" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_sucursal_comuna</text>
+   <path d="M2173,125 L2327,125 A8,8 0 0,1 2335,133 L2335,284" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="2335,284 2332,271 2338,271" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="2335" y="121" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_trabajador_sexo</text>
+   <rect x="1170" y="594" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1170" y="594" fill="url(#Gradient1)" width="279" height="159" stroke="#804000" stroke-width="1"/>
+   <text x="1309" y="605" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">empleador</text>
+   <line x1="1170" x2="1449" y1="611" y2="611" stroke="#804000" stroke-width="1"/>
+   <text x="1175" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idEmpleador</text>
+   <text x="1175" y="633" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">rutEmpleador</text>
+   <text x="1175" y="646" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">dvEmpleador</text>
+   <text x="1175" y="659" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">razonSocialEmpleador</text>
+   <text x="1175" y="672" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">mailEmpleador</text>
+   <text x="1175" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">direccionEmpleador</text>
+   <text x="1175" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idComunaEmpleador</text>
+   <text x="1291" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1291" y="633" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1291" y="646" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(1)</text>
+   <text x="1291" y="659" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(100)</text>
+   <text x="1291" y="672" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(320)</text>
+   <text x="1291" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(400)</text>
+   <text x="1291" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1357" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1357" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <text x="1387" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1410" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1410" y="633" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1410" y="646" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1410" y="659" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1410" y="672" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">not null</text>
+   <text x="1410" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1410" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1170" x2="1449" y1="705" y2="705" stroke="#804000" stroke-width="1"/>
+   <text x="1194" y="715" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_empleador</text>
+   <text x="1273" y="715" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1177,715 1178,717 1180,717 1181,715 1185,715 1185,717 1187,717 1187,714 1181,714 1180,712 1178,712 1177,714 1177,715" stroke="#000000" stroke-width="1"/>
+   <line x1="1170" x2="1449" y1="722" y2="722" stroke="#804000" stroke-width="1"/>
+   <text x="1194" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_empleador</text>
+   <text x="1273" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1178,736 1185,736 1185,726 1178,726 1178,736" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1180,734 1183,734 1183,732 1180,732 1180,734" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1180,730 1183,730 1183,728 1180,728 1180,730" stroke="#000000" stroke-width="1"/>
+   <line x1="1170" x2="1449" y1="739" y2="739" stroke="#804000" stroke-width="1"/>
+   <rect x="1476" y="233" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1476" y="233" fill="url(#Gradient2)" width="307" height="134" stroke="#804000" stroke-width="1"/>
+   <text x="1629" y="244" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">documentoXlicencia</text>
+   <line x1="1476" x2="1783" y1="250" y2="250" stroke="#804000" stroke-width="1"/>
+   <text x="1481" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">iddocumentoXLicencia</text>
+   <text x="1481" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idLicencia</text>
+   <text x="1481" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idDocumentoLicencia</text>
+   <text x="1481" y="299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaHoraDocumentoXLicencia</text>
+   <text x="1481" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idSucursal</text>
+   <text x="1638" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1638" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1638" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1638" y="299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">datetime</text>
+   <text x="1638" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1688" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1688" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk1&gt;</text>
+   <text x="1688" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+   <text x="1688" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk3&gt;</text>
+   <text x="1721" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1744" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1744" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1744" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1744" y="299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1744" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1476" x2="1783" y1="319" y2="319" stroke="#804000" stroke-width="1"/>
+   <text x="1500" y="329" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_documentoXlicencia</text>
+   <text x="1625" y="329" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1483,328 1484,330 1486,330 1487,328 1491,328 1491,330 1493,330 1493,327 1487,327 1486,326 1484,326 1483,327 1483,328" stroke="#000000" stroke-width="1"/>
+   <line x1="1476" x2="1783" y1="336" y2="336" stroke="#804000" stroke-width="1"/>
+   <text x="1500" y="346" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_documentoXlicencia</text>
+   <text x="1625" y="346" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1484,349 1492,349 1492,339 1484,339 1484,349" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1486,347 1490,347 1490,345 1486,345 1486,347" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1486,343 1490,343 1490,341 1486,341 1486,343" stroke="#000000" stroke-width="1"/>
+   <line x1="1476" x2="1783" y1="353" y2="353" stroke="#804000" stroke-width="1"/>
+   <rect x="1489" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1489" y="2" fill="url(#Gradient3)" width="280" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="1629" y="13" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">documentoLicencia</text>
+   <line x1="1489" x2="1769" y1="19" y2="19" stroke="#804000" stroke-width="1"/>
+   <text x="1493" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">iddocumentoLicencia</text>
+   <text x="1493" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomDocumentoLicencia</text>
+   <text x="1616" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1616" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="1676" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1706" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1729" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1729" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1489" x2="1769" y1="49" y2="49" stroke="#804000" stroke-width="1"/>
+   <text x="1513" y="59" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_documentoLicencia</text>
+   <text x="1634" y="59" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1495,59 1496,60 1498,60 1499,59 1503,59 1503,60 1505,60 1505,58 1499,58 1498,56 1496,56 1495,58 1495,59" stroke="#000000" stroke-width="1"/>
+   <line x1="1489" x2="1769" y1="66" y2="66" stroke="#804000" stroke-width="1"/>
+   <text x="1513" y="76" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_documentoLicencia</text>
+   <text x="1634" y="76" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1497,80 1504,80 1504,69 1497,69 1497,80" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1499,78 1502,78 1502,76 1499,76 1499,78" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1499,73 1502,73 1502,71 1499,71 1499,73" stroke="#000000" stroke-width="1"/>
+   <line x1="1489" x2="1769" y1="83" y2="83" stroke="#804000" stroke-width="1"/>
+   <rect x="1197" y="432" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1197" y="432" fill="url(#Gradient4)" width="225" height="109" stroke="#804000" stroke-width="1"/>
+   <text x="1309" y="443" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">comuna</text>
+   <line x1="1197" x2="1422" y1="449" y2="449" stroke="#804000" stroke-width="1"/>
+   <text x="1202" y="459" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idComuna</text>
+   <text x="1202" y="472" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idRegion</text>
+   <text x="1202" y="485" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomComuna</text>
+   <text x="1271" y="459" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1271" y="472" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1271" y="485" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="1331" y="459" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1331" y="472" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <text x="1361" y="459" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1384" y="459" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1384" y="472" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1384" y="485" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1197" x2="1422" y1="492" y2="492" stroke="#804000" stroke-width="1"/>
+   <text x="1221" y="502" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_comuna</text>
+   <text x="1287" y="502" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1204,502 1205,503 1207,503 1208,502 1212,502 1212,503 1214,503 1214,501 1208,501 1207,499 1205,499 1204,501 1204,502" stroke="#000000" stroke-width="1"/>
+   <line x1="1197" x2="1422" y1="509" y2="509" stroke="#804000" stroke-width="1"/>
+   <text x="1221" y="519" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_comuna</text>
+   <text x="1287" y="519" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1205,523 1212,523 1212,512 1205,512 1205,523" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1207,521 1210,521 1210,519 1207,519 1207,521" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1207,517 1210,517 1210,515 1207,515 1207,517" stroke="#000000" stroke-width="1"/>
+   <line x1="1197" x2="1422" y1="526" y2="526" stroke="#804000" stroke-width="1"/>
+   <rect x="529" y="705" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="529" y="705" fill="url(#Gradient5)" width="281" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="669" y="716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">actividadTrabajador</text>
+   <line x1="529" x2="810" y1="722" y2="722" stroke="#804000" stroke-width="1"/>
+   <text x="534" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idActividadTrabajador</text>
+   <text x="534" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomActividadTrabajdor</text>
+   <text x="653" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="653" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(100)</text>
+   <text x="719" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="749" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="772" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="772" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="529" x2="810" y1="752" y2="752" stroke="#804000" stroke-width="1"/>
+   <text x="553" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_actividadTrabajador</text>
+   <text x="676" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="536,762 537,763 539,763 540,762 544,762 544,763 546,763 546,761 540,761 539,759 537,759 536,761 536,762" stroke="#000000" stroke-width="1"/>
+   <line x1="529" x2="810" y1="769" y2="769" stroke="#804000" stroke-width="1"/>
+   <text x="553" y="779" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_actividadTrabajador</text>
+   <text x="676" y="779" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="537,783 544,783 544,772 537,772 537,783" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="539,781 542,781 542,779 539,779 539,781" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="539,777 542,777 542,775 539,775 539,777" stroke="#000000" stroke-width="1"/>
+   <line x1="529" x2="810" y1="786" y2="786" stroke="#804000" stroke-width="1"/>
+   <rect x="2489" y="1089" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2489" y="1089" fill="url(#Gradient6)" width="248" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="2613" y="1100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">especialidad</text>
+   <line x1="2489" x2="2737" y1="1106" y2="1106" stroke="#804000" stroke-width="1"/>
+   <text x="2494" y="1116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idEspecialidad</text>
+   <text x="2494" y="1129" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomEspecialidad</text>
+   <text x="2584" y="1116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2584" y="1129" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2644" y="1116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2674" y="1116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2697" y="1116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2697" y="1129" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2489" x2="2737" y1="1136" y2="1136" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="1146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_especialidad</text>
+   <text x="2601" y="1146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="2496,1146 2497,1147 2499,1147 2500,1146 2504,1146 2504,1147 2506,1147 2506,1144 2500,1144 2499,1143 2497,1143 2496,1144 2496,1146" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2737" y1="1153" y2="1153" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="1163" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_especialidad</text>
+   <text x="2601" y="1163" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="2497,1167 2505,1167 2505,1156 2497,1156 2497,1167" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,1165 2502,1165 2502,1163 2499,1163 2499,1165" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,1160 2502,1160 2502,1158 2499,1158 2499,1160" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2737" y1="1170" y2="1170" stroke="#804000" stroke-width="1"/>
+   <rect x="2489" y="397" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2489" y="397" fill="url(#Gradient7)" width="259" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="2618" y="408" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">estadoLicencia</text>
+   <line x1="2489" x2="2748" y1="414" y2="414" stroke="#804000" stroke-width="1"/>
+   <text x="2493" y="424" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idEstadoLicencia</text>
+   <text x="2493" y="436" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomEstadoLicencia</text>
+   <text x="2594" y="424" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2594" y="436" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="2654" y="424" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2684" y="424" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2707" y="424" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2707" y="436" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2489" x2="2748" y1="443" y2="443" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="453" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_estadoLicencia</text>
+   <text x="2612" y="453" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="2495,453 2496,455 2498,455 2499,453 2504,453 2504,455 2506,455 2506,452 2499,452 2498,450 2496,450 2495,452 2495,453" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2748" y1="460" y2="460" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="470" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_estadoLicencia</text>
+   <text x="2612" y="470" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="2497,474 2504,474 2504,464 2497,464 2497,474" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,472 2502,472 2502,470 2499,470 2499,472" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,468 2502,468 2502,466 2499,466 2499,468" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2748" y1="477" y2="477" stroke="#804000" stroke-width="1"/>
+   <rect x="2154" y="561" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2154" y="561" fill="url(#Gradient8)" width="287" height="122" stroke="#804000" stroke-width="1"/>
+   <text x="2297" y="572" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">estadoXlicencia</text>
+   <line x1="2154" x2="2441" y1="578" y2="578" stroke="#804000" stroke-width="1"/>
+   <text x="2159" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idEstadoXLicencia</text>
+   <text x="2159" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idLicencia</text>
+   <text x="2159" y="614" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idEstadoLicencia</text>
+   <text x="2159" y="627" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaHoraEstadoXLicencia</text>
+   <text x="2294" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2294" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2294" y="614" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2294" y="627" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">datetime</text>
+   <text x="2344" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2344" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk1&gt;</text>
+   <text x="2344" y="614" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+   <text x="2377" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2400" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2400" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2400" y="614" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2400" y="627" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2154" x2="2441" y1="634" y2="634" stroke="#804000" stroke-width="1"/>
+   <text x="2178" y="644" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_estadoXlicencia</text>
+   <text x="2281" y="644" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="2161,644 2162,645 2164,645 2165,644 2169,644 2169,645 2171,645 2171,643 2165,643 2164,641 2162,641 2161,643 2161,644" stroke="#000000" stroke-width="1"/>
+   <line x1="2154" x2="2441" y1="651" y2="651" stroke="#804000" stroke-width="1"/>
+   <text x="2178" y="661" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_estadoXlicencia</text>
+   <text x="2281" y="661" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="2162,665 2170,665 2170,655 2162,655 2162,665" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2164,663 2168,663 2168,661 2164,661 2164,663" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2164,659 2168,659 2168,657 2164,657 2164,659" stroke="#000000" stroke-width="1"/>
+   <line x1="2154" x2="2441" y1="668" y2="668" stroke="#804000" stroke-width="1"/>
+   <rect x="1800" y="763" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1800" y="763" fill="url(#Gradient9)" width="299" height="247" stroke="#804000" stroke-width="1"/>
+   <text x="1949" y="774" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">licencia</text>
+   <line x1="1800" x2="2099" y1="780" y2="780" stroke="#804000" stroke-width="1"/>
+   <text x="1805" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idLicencia</text>
+   <text x="1805" y="803" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">codLicencia</text>
+   <text x="1805" y="815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaOtorgamientoLicencia</text>
+   <text x="1805" y="828" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaInicioLicencia</text>
+   <text x="1805" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaFinLicencia</text>
+   <text x="1805" y="854" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fechaAccidente</text>
+   <text x="1805" y="867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idTrabajador</text>
+   <text x="1805" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idActividadTrabajador</text>
+   <text x="1805" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idOcupacionTrabajador</text>
+   <text x="1805" y="906" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idEmpleador</text>
+   <text x="1805" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idTipoLicencia</text>
+   <text x="1805" y="932" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idTipoReposo</text>
+   <text x="1805" y="945" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idTipoPresentacion</text>
+   <text x="1805" y="958" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idMedico</text>
+   <text x="1944" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1944" y="803" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="1944" y="815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="1944" y="828" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="1944" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="1944" y="854" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="1944" y="867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="906" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="932" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="945" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1944" y="958" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2004" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2004" y="867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+   <text x="2004" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk5&gt;</text>
+   <text x="2004" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk7&gt;</text>
+   <text x="2004" y="906" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk8&gt;</text>
+   <text x="2004" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk6&gt;</text>
+   <text x="2004" y="932" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk3&gt;</text>
+   <text x="2004" y="945" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk4&gt;</text>
+   <text x="2004" y="958" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk1&gt;</text>
+   <text x="2037" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2060" y="790" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2060" y="803" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="828" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="854" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="867" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="880" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="906" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="932" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="945" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2060" y="958" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1800" x2="2099" y1="965" y2="965" stroke="#804000" stroke-width="1"/>
+   <text x="1825" y="975" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_licencia</text>
+   <text x="1890" y="975" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1807,975 1808,976 1810,976 1811,975 1815,975 1815,976 1817,976 1817,974 1811,974 1810,972 1808,972 1807,974 1807,975" stroke="#000000" stroke-width="1"/>
+   <line x1="1800" x2="2099" y1="982" y2="982" stroke="#804000" stroke-width="1"/>
+   <text x="1825" y="992" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_licencia</text>
+   <text x="1890" y="992" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1808,996 1816,996 1816,986 1808,986 1808,996" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1811,994 1814,994 1814,992 1811,992 1811,994" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1811,990 1814,990 1814,988 1811,988 1811,990" stroke="#000000" stroke-width="1"/>
+   <line x1="1800" x2="2099" y1="999" y2="999" stroke="#804000" stroke-width="1"/>
+   <rect x="2489" y="782" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2489" y="782" fill="url(#Gradient10)" width="255" height="209" stroke="#804000" stroke-width="1"/>
+   <text x="2616" y="793" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">medico</text>
+   <line x1="2489" x2="2744" y1="799" y2="799" stroke="#804000" stroke-width="1"/>
+   <text x="2493" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idMedico</text>
+   <text x="2493" y="822" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">runMedico</text>
+   <text x="2493" y="834" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">dvMedico</text>
+   <text x="2493" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nom1Medico</text>
+   <text x="2493" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nom2Medico</text>
+   <text x="2493" y="873" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ape1Medico</text>
+   <text x="2493" y="886" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ape2Medico</text>
+   <text x="2493" y="899" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fnMedico</text>
+   <text x="2493" y="912" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">mailMedico</text>
+   <text x="2493" y="925" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idEspecialidad</text>
+   <text x="2493" y="938" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">rolColegioMedico</text>
+   <text x="2585" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2585" y="822" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2585" y="834" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(1)</text>
+   <text x="2585" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2585" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2585" y="873" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2585" y="886" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2585" y="899" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="2585" y="912" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(320)</text>
+   <text x="2585" y="925" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2585" y="938" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(10)</text>
+   <text x="2651" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2651" y="925" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <text x="2681" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2704" y="809" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2704" y="822" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="834" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="873" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="886" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="899" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="912" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="925" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2704" y="938" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2489" x2="2744" y1="945" y2="945" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="955" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_medico</text>
+   <text x="2576" y="955" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="2495,955 2496,956 2498,956 2499,955 2504,955 2504,956 2506,956 2506,954 2499,954 2498,952 2496,952 2495,954 2495,955" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2744" y1="962" y2="962" stroke="#804000" stroke-width="1"/>
+   <text x="2513" y="972" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_medico</text>
+   <text x="2576" y="972" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="2497,976 2504,976 2504,966 2497,966 2497,976" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,974 2502,974 2502,972 2499,972 2499,974" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2499,970 2502,970 2502,968 2499,968 2499,970" stroke="#000000" stroke-width="1"/>
+   <line x1="2489" x2="2744" y1="979" y2="979" stroke="#804000" stroke-width="1"/>
+   <rect x="182" y="705" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="182" y="705" fill="url(#Gradient11)" width="282" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="323" y="716" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ocupacionTrabajador</text>
+   <line x1="182" x2="464" y1="722" y2="722" stroke="#804000" stroke-width="1"/>
+   <text x="187" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idOcupacionTrabajador</text>
+   <text x="187" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomOcupacionrabajador</text>
+   <text x="312" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="312" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="372" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="402" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="425" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="425" y="745" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="182" x2="464" y1="752" y2="752" stroke="#804000" stroke-width="1"/>
+   <text x="206" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_ocupacionTrabajador</text>
+   <text x="335" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="189,762 190,763 192,763 193,762 197,762 197,763 199,763 199,761 193,761 192,759 190,759 189,761 189,762" stroke="#000000" stroke-width="1"/>
+   <line x1="182" x2="464" y1="769" y2="769" stroke="#804000" stroke-width="1"/>
+   <text x="206" y="779" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_ocupacionTrabajador</text>
+   <text x="335" y="779" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="190,783 197,783 197,772 190,772 190,783" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="192,781 195,781 195,779 192,779 192,781" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="192,777 195,777 195,775 192,775 192,777" stroke="#000000" stroke-width="1"/>
+   <line x1="182" x2="464" y1="786" y2="786" stroke="#804000" stroke-width="1"/>
+   <rect x="1187" y="246" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1187" y="246" fill="url(#Gradient12)" width="246" height="108" stroke="#804000" stroke-width="1"/>
+   <text x="1310" y="257" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">region</text>
+   <line x1="1187" x2="1433" y1="263" y2="263" stroke="#804000" stroke-width="1"/>
+   <text x="1192" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idRegion</text>
+   <text x="1192" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomCortoRegion</text>
+   <text x="1192" y="298" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomRegion</text>
+   <text x="1280" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1280" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(5)</text>
+   <text x="1280" y="298" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="1340" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1370" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1393" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1393" y="286" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1393" y="298" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1187" x2="1433" y1="305" y2="305" stroke="#804000" stroke-width="1"/>
+   <text x="1211" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_region</text>
+   <text x="1269" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1193,315 1194,317 1196,317 1198,315 1202,315 1202,317 1204,317 1204,314 1198,314 1196,312 1194,312 1193,314 1193,315" stroke="#000000" stroke-width="1"/>
+   <line x1="1187" x2="1433" y1="322" y2="322" stroke="#804000" stroke-width="1"/>
+   <text x="1211" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_region</text>
+   <text x="1269" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1195,336 1202,336 1202,326 1195,326 1195,336" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1197,334 1200,334 1200,332 1197,332 1197,334" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1197,330 1200,330 1200,328 1197,328 1197,330" stroke="#000000" stroke-width="1"/>
+   <line x1="1187" x2="1433" y1="339" y2="339" stroke="#804000" stroke-width="1"/>
+   <rect x="2231" y="284" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2231" y="284" fill="url(#Gradient13)" width="209" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="2335" y="295" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">sexo</text>
+   <line x1="2231" x2="2440" y1="301" y2="301" stroke="#804000" stroke-width="1"/>
+   <text x="2235" y="311" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idSexo</text>
+   <text x="2235" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomSexo</text>
+   <text x="2288" y="311" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2288" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="2348" y="311" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2378" y="311" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2401" y="311" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2401" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2231" x2="2440" y1="331" y2="331" stroke="#804000" stroke-width="1"/>
+   <text x="2255" y="341" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_sexo</text>
+   <text x="2304" y="341" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="2237,341 2238,342 2240,342 2241,341 2246,341 2246,342 2248,342 2248,340 2241,340 2240,338 2238,338 2237,340 2237,341" stroke="#000000" stroke-width="1"/>
+   <line x1="2231" x2="2440" y1="348" y2="348" stroke="#804000" stroke-width="1"/>
+   <text x="2255" y="358" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_sexo</text>
+   <text x="2304" y="358" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="2239,362 2246,362 2246,351 2239,351 2239,362" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2241,360 2244,360 2244,358 2241,358 2241,360" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2241,355 2244,355 2244,353 2241,353 2241,355" stroke="#000000" stroke-width="1"/>
+   <line x1="2231" x2="2440" y1="365" y2="365" stroke="#804000" stroke-width="1"/>
+   <rect x="1588" y="452" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1588" y="452" fill="url(#Gradient14)" width="255" height="134" stroke="#804000" stroke-width="1"/>
+   <text x="1715" y="463" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">sucursal</text>
+   <line x1="1588" x2="1843" y1="469" y2="469" stroke="#804000" stroke-width="1"/>
+   <text x="1592" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idSucursal</text>
+   <text x="1592" y="492" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomSucursal</text>
+   <text x="1592" y="505" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">direccionSucursal</text>
+   <text x="1592" y="518" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idComuna</text>
+   <text x="1592" y="531" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">recibeDoc</text>
+   <text x="1683" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1683" y="492" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="1683" y="505" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(100)</text>
+   <text x="1683" y="518" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="1683" y="531" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bit</text>
+   <text x="1749" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1749" y="518" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <text x="1779" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1802" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1802" y="492" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1802" y="505" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1802" y="518" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="1802" y="531" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1588" x2="1843" y1="538" y2="538" stroke="#804000" stroke-width="1"/>
+   <text x="1612" y="548" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_sucursal</text>
+   <text x="1677" y="548" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1594,547 1595,549 1597,549 1598,547 1602,547 1602,549 1604,549 1604,546 1598,546 1597,545 1595,545 1594,546 1594,547" stroke="#000000" stroke-width="1"/>
+   <line x1="1588" x2="1843" y1="555" y2="555" stroke="#804000" stroke-width="1"/>
+   <text x="1612" y="565" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_sucursal</text>
+   <text x="1677" y="565" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1596,569 1603,569 1603,558 1596,558 1596,569" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1598,567 1601,567 1601,564 1598,564 1598,567" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1598,562 1601,562 1601,560 1598,560 1598,562" stroke="#000000" stroke-width="1"/>
+   <line x1="1588" x2="1843" y1="572" y2="572" stroke="#804000" stroke-width="1"/>
+   <rect x="2" y="889" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient15" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="889" fill="url(#Gradient15)" width="246" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="125" y="900" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">tipoLicencia</text>
+   <line x1="2" x2="248" y1="906" y2="906" stroke="#804000" stroke-width="1"/>
+   <text x="7" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idTipoLicencia</text>
+   <text x="7" y="929" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomTipoLicencia</text>
+   <text x="98" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="98" y="929" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="158" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="188" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="211" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not nu</text>
+   <text x="211" y="929" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="2" x2="248" y1="936" y2="936" stroke="#804000" stroke-width="1"/>
+   <text x="26" y="946" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoLicencia</text>
+   <text x="112" y="946" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="8,946 10,947 12,947 13,946 17,946 17,947 19,947 19,945 13,945 12,943 10,943 8,945 8,946" stroke="#000000" stroke-width="1"/>
+   <line x1="2" x2="248" y1="953" y2="953" stroke="#804000" stroke-width="1"/>
+   <text x="26" y="963" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoLicencia</text>
+   <text x="112" y="963" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="10,967 17,967 17,957 10,957 10,967" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="12,965 15,965 15,963 12,963 12,965" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="12,961 15,961 15,959 12,959 12,961" stroke="#000000" stroke-width="1"/>
+   <line x1="2" x2="248" y1="970" y2="970" stroke="#804000" stroke-width="1"/>
+   <rect x="1795" y="1052" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient16" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1795" y="1052" fill="url(#Gradient16)" width="310" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="1950" y="1063" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">tipoPresentacionLicencia</text>
+   <line x1="1795" x2="2105" y1="1069" y2="1069" stroke="#804000" stroke-width="1"/>
+   <text x="1800" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idTipoPresentacionLicencia</text>
+   <text x="1800" y="1092" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomTipoPresentacionLicencia</text>
+   <text x="1952" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="1952" y="1092" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="2012" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2042" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2065" y="1079" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2065" y="1092" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1795" x2="2105" y1="1099" y2="1099" stroke="#804000" stroke-width="1"/>
+   <text x="1819" y="1109" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoPresentacionLicencia</text>
+   <text x="1966" y="1109" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1801,1108 1802,1110 1805,1110 1806,1108 1810,1108 1810,1110 1812,1110 1812,1107 1806,1107 1805,1106 1802,1106 1801,1107 1801,1108" stroke="#000000" stroke-width="1"/>
+   <line x1="1795" x2="2105" y1="1116" y2="1116" stroke="#804000" stroke-width="1"/>
+   <text x="1819" y="1126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoPresentacionLicencia</text>
+   <text x="1966" y="1126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1803,1129 1810,1129 1810,1119 1803,1119 1803,1129" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1805,1127 1808,1127 1808,1125 1805,1125 1805,1127" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1805,1123 1808,1123 1808,1121 1805,1121 1805,1123" stroke="#000000" stroke-width="1"/>
+   <line x1="1795" x2="2105" y1="1133" y2="1133" stroke="#804000" stroke-width="1"/>
+   <rect x="868" y="679" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient17" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="868" y="679" fill="url(#Gradient17)" width="244" height="96" stroke="#804000" stroke-width="1"/>
+   <text x="990" y="690" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">tipoReposo</text>
+   <line x1="868" x2="1112" y1="696" y2="696" stroke="#804000" stroke-width="1"/>
+   <text x="873" y="706" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idTipoReposo</text>
+   <text x="873" y="718" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nomTipoReposo</text>
+   <text x="959" y="706" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="959" y="718" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(45)</text>
+   <text x="1019" y="706" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1049" y="706" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="1072" y="706" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="1072" y="718" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="868" x2="1112" y1="725" y2="725" stroke="#804000" stroke-width="1"/>
+   <text x="892" y="735" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoReposo</text>
+   <text x="973" y="735" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="874,735 875,737 878,737 879,735 883,735 883,737 885,737 885,734 879,734 878,732 875,732 874,734 874,735" stroke="#000000" stroke-width="1"/>
+   <line x1="868" x2="1112" y1="742" y2="742" stroke="#804000" stroke-width="1"/>
+   <text x="892" y="752" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_tipoReposo</text>
+   <text x="973" y="752" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="876,756 883,756 883,746 876,746 876,756" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="878,754 881,754 881,752 878,752 878,754" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="878,750 881,750 881,748 878,748 878,750" stroke="#000000" stroke-width="1"/>
+   <line x1="868" x2="1112" y1="759" y2="759" stroke="#804000" stroke-width="1"/>
+   <rect x="1924" y="27" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient18" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1924" y="27" fill="url(#Gradient18)" width="249" height="197" stroke="#804000" stroke-width="1"/>
+   <text x="2048" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">trabajador</text>
+   <line x1="1924" x2="2173" y1="44" y2="44" stroke="#804000" stroke-width="1"/>
+   <text x="1928" y="54" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">idTrabajador</text>
+   <text x="1928" y="67" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">runTrabajador</text>
+   <text x="1928" y="80" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">dvTrabajador</text>
+   <text x="1928" y="93" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nom1Trabajador</text>
+   <text x="1928" y="106" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nom2Trabajador</text>
+   <text x="1928" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ape1Trabajador</text>
+   <text x="1928" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ape2Trabajador</text>
+   <text x="1928" y="145" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fnTrabajador</text>
+   <text x="1928" y="158" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">mailTrabajador</text>
+   <text x="1928" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">idSexo</text>
+   <text x="2015" y="54" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">int</text>
+   <text x="2015" y="67" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2015" y="80" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(1)</text>
+   <text x="2015" y="93" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2015" y="106" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2015" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2015" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(50)</text>
+   <text x="2015" y="145" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   <text x="2015" y="158" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varchar(320)</text>
+   <text x="2015" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">int</text>
+   <text x="2081" y="54" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2081" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <text x="2111" y="54" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;i&gt;</text>
+   <text x="2134" y="54" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">not null</text>
+   <text x="2134" y="67" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="80" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="93" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="106" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="145" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="158" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <text x="2134" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">null</text>
+   <line x1="1924" x2="2173" y1="178" y2="178" stroke="#804000" stroke-width="1"/>
+   <text x="1948" y="188" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_trabajador</text>
+   <text x="2024" y="188" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;pk&gt;</text>
+   <polyline fill="none" points="1930,187 1931,189 1933,189 1934,187 1938,187 1938,189 1940,189 1940,186 1934,186 1933,185 1931,185 1930,186 1930,187" stroke="#000000" stroke-width="1"/>
+   <line x1="1924" x2="2173" y1="195" y2="195" stroke="#804000" stroke-width="1"/>
+   <text x="1948" y="205" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PK_trabajador</text>
+   <text x="2024" y="205" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;i&gt;</text>
+   <polyline fill="none" points="1932,208 1939,208 1939,198 1932,198 1932,208" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1934,206 1937,206 1937,204 1934,204 1934,206" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1934,202 1937,202 1937,200 1934,200 1934,202" stroke="#000000" stroke-width="1"/>
+   <line x1="1924" x2="2173" y1="212" y2="212" stroke="#804000" stroke-width="1"/>
+</svg>
